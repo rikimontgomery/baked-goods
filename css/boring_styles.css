@@ -1,0 +1,22 @@
+.unimportant {
+  color: green;
+}
+h2.intro {
+  color: blue;
+}
+
+.important {
+  color: red;
+}
+
+img.intro {
+  border-radius: 45%;
+}
+
+.fish-type {
+  font-weight: bold;
+}
+
+.highlight {
+  font-style: italic;
+}
